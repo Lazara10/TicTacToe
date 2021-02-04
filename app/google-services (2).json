@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546293162399",
+    "project_id": "myproject-73b23",
+    "storage_bucket": "myproject-73b23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546293162399:android:aba9ffa89c70d163ad9daa",
+        "android_client_info": {
+          "package_name": "com.example.finalexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546293162399-in32bfjd4onv7lgd0rkqtpmfhlav0j87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6qG0XvvpVNBtHlRh3YwvSQs071I28fqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546293162399-in32bfjd4onv7lgd0rkqtpmfhlav0j87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
